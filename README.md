@@ -6,5 +6,5 @@ this is a repo for IE class fall 1400
 
 in src folder is main.java file that has "hello, World!"
 
-## there is a screenshot in repo that has the overview of github account
+## there is an screenshot in repo that has the overview of github account
 
